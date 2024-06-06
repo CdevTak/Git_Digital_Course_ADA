@@ -1,6 +1,6 @@
 # Curso Digital: Git
 
-# Re-Editado Por: Renan Takahashi
+# Re-Editado Por: Renan 
 
 # Gravando mudanças no repositório
 
