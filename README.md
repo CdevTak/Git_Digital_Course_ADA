@@ -1,5 +1,7 @@
 # Curso Digital: Git
 
+# Re-Editado Por: Renan Takahashi
+
 # Gravando mudanças no repositório
 
 # Salvando modificações no Git 
